@@ -1,12 +1,12 @@
 ## Olá me chamo Isabela !
 ### Bem vindo ao meu perfil do Github 👋
 #### 🌱 Atualmente estou estudando Desenvolvimento de Software Multiplataforma na Fatec Araras.
-
+![Snake animation](https://github.com/isagaiteiro/isagaiteiro/blob/output/github-contribution-grid-snake.svg)
 <div>
 <a href="https://github.com/isagaiteiro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagaiteiro&layout=compact&langs_count=7&theme=white"/>
 </div>
-![Snake animation](https://github.com/isagaiteiro/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **Isagaiteiro/isagaiteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
