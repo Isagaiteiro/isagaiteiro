@@ -1,6 +1,6 @@
 ## Olá me chamo Isabela !
 ### Bem vindo ao meu perfil do Github 👋
-
+####🌱 Atualmente estou estudando Desenvolvimento de Software Multiplataforma na Fatec Araras.
 <!--
 **Isagaiteiro/isagaiteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
