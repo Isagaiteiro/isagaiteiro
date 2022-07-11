@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Estudando **Desenvolvimento de Software Multi´lataforma** na <a href="https://fatecararas.cps.sp.gov.br/">**FATEC ARARAS**</a>.
+- 🎓 &nbsp; Estudando **Desenvolvimento de Software Multiplataforma** na <a href="https://fatecararas.cps.sp.gov.br/">**FATEC ARARAS**</a>.
 
 Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.
 
@@ -42,7 +42,7 @@ Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
-[![Linkedin: Isabela Gaiteiro](https://img.shields.io/badge/-AllanGaiteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabela-gaiteiro-5576ba17b/)](https://www.linkedin.com/in/isabela-gaiteiro-5576ba17b/)
+[![Linkedin: Isabela Gaiteiro](https://img.shields.io/badge/-Isagaiteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabela-gaiteiro-5576ba17b/)](https://www.linkedin.com/in/isabela-gaiteiro-5576ba17b/)
 [![Gmail Badge](https://img.shields.io/badge/-isagaiteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:isagaiteiro@gmail.com)
 [![GitHub Isabela Gaiteiro](https://img.shields.io/github/followers/Isagaiteiro?label=follow&style=social)](https://github.com/Isagaiteiro)
 
