@@ -1,6 +1,6 @@
 # Isabela Gaiteiro
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :👩‍🎓: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Desenvolvimento de Software Multiplataforma** na <a href="https://fatecararas.cps.sp.gov.br/">**FATEC ARARAS**</a>.
 
