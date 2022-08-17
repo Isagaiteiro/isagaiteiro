@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Estudando **Desenvolvimento de Software Multiplataforma** na <a href="https://fatecararas.cps.sp.gov.br/">**FATEC ARARAS**</a>.
 
-Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.
+"Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar."
 
 </br>
 
