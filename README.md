@@ -25,7 +25,6 @@
 **Aplicações e Dados**
 
 <br/>
-<br/>
 <div>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"/>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
@@ -37,15 +36,14 @@
 **DevOps**
 
 <br/>
-<br/>
 <div>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"/>
 </div>  
 
+
 **Ferramentas de Desenvolvimento**
 
-<br/>
 <br/>
 <div>
 <img height="50em" align="center" style="padding:30px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
