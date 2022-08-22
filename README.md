@@ -31,7 +31,7 @@
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Isagaiteiro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isagaiteiro&theme=dracula&layout=compact&langs_count=10" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isagaiteiro&theme=dracula&layout=compact&langs_count=10" />
 </a>
 
 <a href="https://github.com/Isagaiteiro">
