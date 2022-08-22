@@ -32,18 +32,19 @@
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg"/>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"/>   
 </div>  
-<br/>
-DevOps
-<br/>
+
+**DevOps**
+
 <br/>
 <div>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"/>
 </div>  
+
+**Ferramentas de Desenvolvimento**
+
 <br/>
-Ferramentas de Desenvolvimento
-<br/>
-<br/>
+
 <div>
 <img height="50em" align="center" style="padding:30px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
 <img height="50em" align="center" style="padding:30px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gimp/gimp-original.svg"/>
