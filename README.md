@@ -21,8 +21,9 @@
 <br/>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
-<br/>
+
 **Aplicações e Dados**
+
 <br/>
 <br/>
 <div>
@@ -36,6 +37,7 @@
 **DevOps**
 
 <br/>
+<br/>
 <div>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"/>
@@ -44,7 +46,7 @@
 **Ferramentas de Desenvolvimento**
 
 <br/>
-
+<br/>
 <div>
 <img height="50em" align="center" style="padding:30px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
 <img height="50em" align="center" style="padding:30px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gimp/gimp-original.svg"/>
