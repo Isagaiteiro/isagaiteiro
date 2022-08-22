@@ -24,6 +24,7 @@
 <br/>
 **Aplicações e Dados**
 <br/>
+<br/>
 <div>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"/>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
@@ -34,12 +35,14 @@
 <br/>
 **DevOps**
 <br/>
+<br/>
 <div>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"/>
 </div>  
 <br/>
 **Ferramentas de Desenvolvimento**
+<br/>
 <br/>
 <div>
 <img height="50em" align="center" style="padding:30px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
@@ -55,5 +58,5 @@
     <a href = "mailto:isagaiteiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/isabela-gaiteiro-5576ba17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br/>
+
 ![Snake animation](https://github.com/isagaiteiro/isagaiteiro/blob/output/github-contribution-grid-snake.svg)
