@@ -40,11 +40,11 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
-
 
 ![Snake animation](https://github.com/isagaiteiro/isagaiteiro/blob/output/github-contribution-grid-snake.svg)
 
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
 [![Linkedin: Isabela Gaiteiro](https://img.shields.io/badge/-Isagaiteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabela-gaiteiro-5576ba17b/)](https://www.linkedin.com/in/isabela-gaiteiro-5576ba17b/)
 [![Gmail Badge](https://img.shields.io/badge/-isagaiteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:isagaiteiro@gmail.com)
