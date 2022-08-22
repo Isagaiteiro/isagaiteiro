@@ -8,6 +8,18 @@
 
 </br>
 
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Isagaiteiro">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isagaiteiro&theme=dracula&layout=compact&langs_count=10" />
+</a>
+
+<a href="https://github.com/Isagaiteiro">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Isagaiteiro&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+
+<br/>
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
@@ -28,24 +40,17 @@
 
 <br/>
 
-## **GitHub Estatísticas**
-
-<a href="https://github.com/Isagaiteiro">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isagaiteiro&theme=dracula&layout=compact&langs_count=10" />
-</a>
-
-<a href="https://github.com/Isagaiteiro">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Isagaiteiro&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-
-<br/>
-
-
-![Snake animation](https://github.com/isagaiteiro/isagaiteiro/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
+<div>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
 [![Linkedin: Isabela Gaiteiro](https://img.shields.io/badge/-Isagaiteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabela-gaiteiro-5576ba17b/)](https://www.linkedin.com/in/isabela-gaiteiro-5576ba17b/)
 [![Gmail Badge](https://img.shields.io/badge/-isagaiteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:isagaiteiro@gmail.com)
 [![GitHub Isabela Gaiteiro](https://img.shields.io/github/followers/Isagaiteiro?label=follow&style=social)](https://github.com/Isagaiteiro)
+</div>
+
+![Snake animation](https://github.com/isagaiteiro/isagaiteiro/blob/output/github-contribution-grid-snake.svg)
+
+
