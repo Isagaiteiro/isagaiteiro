@@ -10,7 +10,7 @@
 
 ## **GitHub Estatísticas**
 
-<div>
+
 <a href="https://github.com/Isagaiteiro">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isagaiteiro&theme=dracula&layout=compact&langs_count=10" />
 </a>
@@ -18,7 +18,6 @@
 <a href="https://github.com/Isagaiteiro">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Isagaiteiro&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
-</div>
 <br/>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
