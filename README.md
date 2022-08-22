@@ -46,3 +46,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-isagaiteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:isagaiteiro@gmail.com)
 [![GitHub Isabela Gaiteiro](https://img.shields.io/github/followers/Isagaiteiro?label=follow&style=social)](https://github.com/Isagaiteiro)
 
+![Snake animation](https://github.com/isagaiteiro/isagaiteiro/blob/output/github-contribution-grid-snake.svg)
