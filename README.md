@@ -10,14 +10,13 @@
 
 ## **GitHub Estatísticas**
 
-
+<div>
 <a href="https://github.com/Isagaiteiro">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isagaiteiro&theme=dracula&layout=compact&langs_count=10" />
 </a>
-
-  <div>
-  <a href="https://github.com/isagaiteiro">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=isagaiteiro&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&count_private=true"/>
+ <a href="https://github.com/isagaiteiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isagaiteiro&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&count_private=true"/>
+</a>
   
 </div> 
  
