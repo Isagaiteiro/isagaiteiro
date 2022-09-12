@@ -15,9 +15,12 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isagaiteiro&theme=dracula&layout=compact&langs_count=10" />
 </a>
 
-<a href="https://github.com/Isagaiteiro">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Isagaiteiro&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
+  <div align="center">
+  <a href="https://github.com/StehMorais">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stehmorais&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stehmorais&layout=compact&langs_count=7&theme=radical"/>
+</div> 
+ 
 <br/>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
